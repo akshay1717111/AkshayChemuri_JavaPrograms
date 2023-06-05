@@ -30,3 +30,4 @@ bin/
 JavaFolder.iml
 /.idea/
 /.out/
+.class
